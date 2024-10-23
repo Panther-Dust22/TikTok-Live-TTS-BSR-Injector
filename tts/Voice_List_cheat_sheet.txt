@@ -1,0 +1,78 @@
+Here is a cheat sheet for all supported voices, all you have to use is the first half of your choice wherever you need it, so if you wanted Deadpool to be the default voice then you would use DEADPOOL in the appropriate text file under Default
+
+    # DISNEY VOICES
+    GHOSTFACE = 'en_us_ghostface'
+    CHEWBACCA = 'en_us_chewbacca'
+    C3PO = 'en_us_c3po'
+    STITCH = 'en_us_stitch'
+    STORMTROOPER = 'en_us_stormtrooper'
+    ROCKET = 'en_us_rocket'
+
+    # OTHER
+    EN_MALE_NARRATION = 'en_male_narration'
+    EN_MALE_FUNNY = 'en_male_funny'
+    EN_FEMALE_EMOTIONAL = 'en_female_emotional'
+
+    # ENGLISH VOICES
+    PIRATE = 'en_male_pirate'
+    GHOSTHOST = 'en_male_ghosthost'
+    MADAMELEOTA = 'en_female_madam_leota'
+    MAGICIAN = 'en_male_wizard'
+    SANTANARATION = 'en_male_santa_narration'
+    GRANNY = 'en_female_grandma'
+    CUPID = 'en_male_cupid'
+    BAE = 'en_female_betty'
+    MARTY = 'en_male_trevor'
+    VARSITY = 'en_female_pansino'
+    DEBUTANTE = 'en_female_shenna'
+    BUTLER = 'en_male_ukbutler'
+    LORDCRINGE = 'en_male_ukneighbor'
+    OLANTEKKERS = 'en_male_olantekkers'
+    ASHMAGIC = 'en_male_ashmagic'
+    ALFRED = 'en_male_jarvis'
+    TRICKSTER = 'en_male_grinch'
+    BESTIE = 'en_female_richgirl'
+    BEAUTY = 'en_female_makeup'
+    MALESERIOUS = 'en_male_cody'
+    GAMEON = 'en_male_jomboy'
+    DEADPOOL = 'en_male_deadpool'
+    EN_AU_FEMALE_1 = 'en_au_001'
+    EN_AU_MALE_1 = 'en_au_002'
+    EN_UK_MALE_1 = 'en_uk_001'
+    EN_UK_MALE_2 = 'en_uk_003'
+    EN_US_FEMALE_1 = 'en_us_001'
+    EN_US_FEMALE_2 = 'en_us_002'
+    EN_US_MALE_1 = 'en_us_006'
+    EN_US_MALE_2 = 'en_us_007'
+    EN_US_MALE_3 = 'en_us_009'
+    EN_US_MALE_4 = 'en_us_010'
+
+    # EUROPE VOICES
+    FR_MALE_1 = 'fr_001'
+    FR_MALE_2 = 'fr_002'
+    DE_FEMALE = 'de_001'
+    DE_MALE = 'de_002'
+    ES_MALE = 'es_002'
+
+    # AMERICA VOICES
+    ES_MX_MALE = 'es_mx_002'
+    BR_FEMALE_1 = 'br_001'
+    BR_FEMALE_2 = 'br_003'
+    BR_FEMALE_3 = 'br_004'
+    BR_MALE = 'br_005'
+
+    # ASIA VOICES
+    ID_FEMALE = 'id_001'
+    JP_FEMALE_1 = 'jp_001'
+    JP_FEMALE_2 = 'jp_003'
+    JP_FEMALE_3 = 'jp_005'
+    JP_MALE = 'jp_006'
+    KR_MALE_1 = 'kr_002'
+    KR_FEMALE = 'kr_003'
+    KR_MALE_2 = 'kr_004'
+
+    # SINGING VOICES
+    EN_FEMALE_ALTO = 'en_female_f08_salut_damour'
+    EN_MALE_TENOR = 'en_male_m03_lobby'
+    EN_FEMALE_WARMY_BREEZE = 'en_female_f08_warmy_breeze'
+    EN_MALE_SUNSHINE_SOON = 'en_male_m03_sunshine_soon'

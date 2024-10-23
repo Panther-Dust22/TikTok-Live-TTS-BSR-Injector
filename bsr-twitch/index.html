@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitch/BSR Injector by EmStar233</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            display: flex;
+            width: 80%;
+            max-width: 1200px;
+            min-width: 600px;
+            border: 1px solid #ccc;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        .section {
+            flex: 1;
+            margin: 10px;
+            border: 1px solid #ccc;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        .status {
+            display: flex;
+            align-items: center;
+            margin-top: 10px;
+        }
+        .status span {
+            margin-left: 10px;
+        }
+        .connected {
+            color: green;
+        }
+        .disconnected {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="section">
+            <h1>TikFinity API Event</h1>
+            <div>
+                <label for="wsAddress">WS Address:</label>
+                <input type="text" id="wsAddress" value="ws://localhost"><bR>
+                <label for="wsPort">WS Port:</label>
+                <input type="text" id="wsPort" value="21213"><br>
+                <label for="wsEndpoint">Endpoint:</label>
+                <input type="text" id="wsEndpoint" value="/"><br>
+                <button id="connectBtn">Connect</button>
+            </div>
+            <textarea id="dataBox" rows="10" cols="50"></textarea>
+            <div id="status" class="status">
+                <span id="statusIcon">❌</span>
+                <span id="statusText" class="disconnected">Disconnected</span>
+            </div>
+        </div>
+<div class="section">
+    <h2>Twitch/BSR Injector</h2>
+    <a href="https://twitchapps.com/tmi/" target="_blank">Get OAuth Token</a><br>
+    <label for="twitchToggle">Enable Twitch IRC: </label>
+    <input type="checkbox" id="twitchToggle">
+    <br>
+    <label for="twitchOAuth">OAuth Token:</label>
+    <input type="text" id="twitchOAuth" disabled><br>
+    <label for="twitchUsername">Username:</label>
+    <input type="text" id="twitchUsername" disabled><br>
+    <label for="twitchChannel">Channel:</label>
+    <input type="text" id="twitchChannel" disabled><br>
+    <button id="saveBtn" disabled>Save</button>
+    <div id="twitchStatus" class="status">
+        <span id="twitchStatusIcon">❌</span>
+        <span id="twitchStatusText" class="disconnected">Disconnected</span>
+            </div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
