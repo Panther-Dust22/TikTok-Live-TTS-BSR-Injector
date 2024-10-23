@@ -1,3 +1,4 @@
+```
 ****************************************
 *  BSR Injector and TTS Voice system   *
 *      ___ __  __    ___ ________      *
@@ -6,6 +7,7 @@
 *     |___|_|  |_|\//___|___/___/      *
 *Created by Emstar233 And Husband (V 2)*
 ****************************************
+```
 This is the UPDATED bsr injector with TTS now combined, streamer.bot is no longer needed and everything is ran through python and a browser. TIKFINITY APP, BEATSABER PLUS(if playing beatsaber) & TWITCH ACCOUNT STILL REQUIRED!
 
 #1 Run the "Setup" file this will install Python, once complete click close on the python window and some more black windows will flash up, wait for them to finish, this is just installing extra bits needed to make this system work
