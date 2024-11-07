@@ -9,8 +9,6 @@
 ****************************************
 ```
 
-NOTE: currently the API that this system uses for TTS is down, please be patient while the host resolves the issue tts.weilnet.workers.dev/api/generation 26/10/24
-
 
 This is the UPDATED bsr injector with TTS now combined, streamer.bot is no longer needed and everything is ran through python and a browser. TIKFINITY APP, BEATSABER PLUS(if playing beatsaber) & TWITCH ACCOUNT STILL REQUIRED!
 
