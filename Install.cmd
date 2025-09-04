@@ -110,7 +110,7 @@ echo FFprobe verification successful.
 rem -------------------------------
 rem Install all packages in one command
 rem -------------------------------
-py -3.12 -m pip install asyncio==4.0.0 requests==2.32.3 websockets==12.0 psutil==7.0.0 pydub==0.25.1 pycaw==20240210 comtypes==1.4.11 pygame==2.6.1 watchdog==5.0.2 --user --disable-pip-version-check
+py -3.12 -m pip install asyncio==4.0.0 requests==2.32.3 websockets==12.0 psutil==7.0.0 pydub==0.25.1 pycaw==20240210 comtypes==1.4.11 pygame==2.6.1 watchdog==5.0.2 packaging==24.1 --user --disable-pip-version-check
 
 rem Clean up any data folder created in wrong location during package installation
 if exist "data" (
