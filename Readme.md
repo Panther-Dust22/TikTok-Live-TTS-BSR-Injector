@@ -1,3 +1,4 @@
+```
 ✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨
      ✨         TTS Voice System V4.0            ✨
      ✨                OVERHAUL                  ✨
@@ -7,6 +8,7 @@
      ✨      |___|_|  |_|\//___|___/___/         ✨
      ✨💫 Created by Emstar233 & Husband (V4) 💫✨
 ✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨
+```  
 
 
 Thanks for downloading the new Overhauled version of out TTS
@@ -91,20 +93,28 @@ Install instructions.
 
 **Previous bsr tts users**
 
-copy all your old txt files and put them in this folder with the installer and convert file
-Run Install which will make sure you have the correct Python version and all the requirements needed for this project
-run the convert and create file (this will transform your old txt files to the new format and then put them away safely)
-double click the new Run TTS BSR icon to start the GUI, you can copy this to your desktop if needed (right click - send to - desktop create shortcut)
+copy all your old txt files and put them in this folder with the installer and convert file.
+
+Run Install which will make sure you have the correct Python version and all the requirements needed for this project.
+
+run the convert and create file (this will transform your old txt files to the new format and then put them away safely).
+
+double click the new Run TTS BSR icon to start the GUI, you can copy this to your desktop if needed (right click - send to - desktop create shortcut).
+
 
 DONE!
 
 
 **New Users**
 
-Install Tikfinity https://tikfinity.zerody.one/app/
-Run the Install file
-run the Convert and Create file (for you this will create all the files needed to run this project)
-double click the new Run TTS BSR icon to start the GUI, you can copy this to your desktop if needed (right click - send to - desktop create shortcut) 
+Install Tikfinity https://tikfinity.zerody.one/app/ .
+
+Run the Install file.
+
+run the Convert and Create file (for you this will create all the files needed to run this project).
+
+double click the new Run TTS BSR icon to start the GUI, you can copy this to your desktop if needed (right click - send to - desktop create shortcut) .
+
 
 DONE!
 
@@ -211,8 +221,6 @@ Mod commands for stream if enabled
 | \*\*Add Rude Words\*\*       | `!vrude <word1> <word2> ...`    | Add words to the rude-word filter. Avoids duplicates.           | `!vrude foo bar baz`           |
 
 | \*\*Emergency shut down\*\*  | `!restart`                      | If enabled in the GUI stops and restarts TTS (clears queue).    | `!restart          `           |
-
-
 
 
 
