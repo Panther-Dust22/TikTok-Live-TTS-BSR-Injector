@@ -1,3 +1,6 @@
+there is an update to the bsr plugin, i have included it in this package, but to save you from downloading everything
+head to my git page and click on the bsr injector instead of tts bsr
+
 V4.6 UPDATE! i have now made an official Plugin/Mod for beatsaber, this now replaces the BSR injector side of things.
 Download the latest release from the releases section V4.6 There is no longer a need to use twitch or an 0Auth code,
 read the extra readme included NOTE: the previous version of the bsr injector has been left included encase this one does work for you.
@@ -144,3 +147,4 @@ Mod commands for stream if enabled
 | \*\*Remove Name Swap\*\*     | `!vnoname <name>`               | Remove a spoken name override.                                  | `!vnoname John Smith`          |
 | \*\*Add Rude Words\*\*       | `!vrude <word1> <word2> ...`    | Add words to the rude-word filter. Avoids duplicates.           | `!vrude foo bar baz`           |
 | \*\*Emergency shut down\*\*  | `!restart`                      | If enabled in the GUI stops and restarts TTS (clears queue).    | `!restart          `           |
+
