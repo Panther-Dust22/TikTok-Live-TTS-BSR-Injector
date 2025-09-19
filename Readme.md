@@ -5,5 +5,6 @@ this was because the BSR injector is now built into Beatsaver using a plugin ava
 
 and because the TTS system got a bit complex so i didnt want to have people updating everything if they only needed one or the other.
 
-This Git has been archived for Historical use, old versions are available on the releases list  
+This Git has been archived for Historical use and for the message updates in both systems, old versions are available on the releases list  
+
 
