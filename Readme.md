@@ -7,4 +7,5 @@ and because the TTS system got a bit complex so i didnt want to have people upda
 
 This Git has been archived for Historical use and for the message updates in both systems, old versions are available on the releases list  
 
+Join our Discord here https://discord.com/invite/PVvv8M5e83
 
